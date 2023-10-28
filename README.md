@@ -28,6 +28,12 @@ Annual Premium: Premium amount the customer needs to pay
 Policy Sales Channel: Anonymized code for the customer outreach channel
 Vintage: Number of days the customer has been associated with the company
 Response: Whether the customer is interested in vehicle insurance
+These numbers correspond to the fields in your dataset.
+
+
+
+
+
 Main Libraries Used:
 
 Pandas: for data manipulation and aggregation
