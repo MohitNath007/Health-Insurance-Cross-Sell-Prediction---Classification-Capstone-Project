@@ -48,7 +48,9 @@ Response: Whether the customer is interested in vehicle insurance
 These numbers correspond to the fields in your dataset.
 
 
+
 **Main Libraries Used:**
+
 Pandas: for data manipulation and aggregation
 
 Matplotlib and Seaborn: for data visualization
